@@ -10,6 +10,7 @@ import router from "./route.js"
 // import Vant from "vant"
 
 console.log(111);
+console.log(222);
 Vue.use(VueRouter);
 // Vue.use(Vant)
 
