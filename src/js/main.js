@@ -9,6 +9,7 @@ import main from "../vue/main.vue"
 import router from "./route.js"
 // import Vant from "vant"
 
+console.log(111);
 Vue.use(VueRouter);
 // Vue.use(Vant)
 
